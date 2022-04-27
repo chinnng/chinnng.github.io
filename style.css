@@ -1,0 +1,17 @@
+body{background: beige}
+header,footer{clear:both;
+    text-align:center;
+    background:#E2C1C5;
+    border:soild 10px pink;
+    border-radius: 10px;}
+    
+nav{float:left;
+    width:20%; 
+    height:200px;
+    background:#F2EEE5;
+    border:soild 10px #F2EEE5;
+    border-radius: 10px}
+a:hover{color:darksalmon;
+    background-color: cornsilk}
+a:link;a:visited{color:chocolate}
+p{border:dotted 5px darksalmon}
