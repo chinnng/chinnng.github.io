@@ -3,8 +3,7 @@ header,footer{clear:both;
     text-align:center;
     background:#E2C1C5;
     border:soild 10px pink;
-    border-radius: 10px;}
-    
+    border-radius: 10px;} 
 nav{float:left;
     width:20%; 
     height:200px;
