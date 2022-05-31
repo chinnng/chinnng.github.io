@@ -1,13 +1,20 @@
-body{background: beige}
-header,footer{clear:both;
-    text-align:center;
-    background:#E6D1B1;
-    border:soild 10px #E6D1B1;
-    border-radius: 10px;} 
-a:hover{color:darksalmon;
-    background-color: cornsilk}
-a:link;a:visited{color:chocolate}
+body{background:#e8e3dc}
+header
+{
+    text-align: center;
+    background:url('beige.jpg');
+    background-position: center;
+    background-size: cover;
+    display:flex;
+    align-items:center;
+    height:300px}
+h1{margin: 0 auto;
+text-align: center;
+filter: opacity(70%)}
+a:hover{
+    background-color:#6f503d}
 p{border:hidden 3px darksalmon}
-h4{border: dotted 3px chocolate;
-    border-radius: 20px;
+h4{border: dotted 4px#9e8a7c ;
+    border-radius: 15px;
 text-align: center}
+.navbar{background-color:#c1afa0}
