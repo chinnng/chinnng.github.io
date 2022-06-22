@@ -13,8 +13,13 @@ text-align: center;
 filter: opacity(70%)}
 a:hover{
     background-color:#6f503d}
-p{border:hidden 3px darksalmon}
-h4{border: dotted 4px#9e8a7c ;
+p{border:hidden 3px darksalmon;
+text-align: justify}
+h4{border: dotted 4px#9e8a7c;
     border-radius: 15px;
-text-align: center}
+text-align: center;
+margin-bottom: 50px
+   
+}
 .navbar{background-color:#c1afa0}
+
